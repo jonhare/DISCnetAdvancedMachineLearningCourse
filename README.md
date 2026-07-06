@@ -34,6 +34,6 @@
  - 11:15-12:30: Introduction of Transformer Networks (Jon)
  - 12:30:2:00 Lunch
  - 2:00-2:30: Diffusion [PDF](diffusion_small.pdf)
- - 2:30-3:45 Hands-on Diffusion Models [Note Book](https://github.com/harveymannering/boilerplate_code/blob/main/ddpm.ipynb)
+ - 2:30-3:45 Hands-on Diffusion Models [Notebook](https://github.com/harveymannering/boilerplate_code/blob/main/ddpm.ipynb)
  - 3:45-4:00 Coffee (wrap up)
  - 4:00 Departure

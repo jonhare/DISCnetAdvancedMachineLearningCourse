@@ -5,7 +5,7 @@
 
 ## Day 1: Tuesday 7th July 2026
  - 9:00-11:00: New Directions in Machine Learning (Niranjan, Jon and Adam)
-   - [history_15years.pdf](history_15years.pdf)
+   - Overview of 15 years of machine learning [PDF](history.pdf)
    - Supervised, unsupervised, semi-supervised and self supervised
      learning
    - Learning representations (from clustering to classification)
@@ -13,8 +13,7 @@
    - Generative AI
  - 11:00-11:15: Coffee
  - 11:15-12:30: Lessons from Machine Learning Mistakes (Adam + others)
-   - [lessons_learned.pdf](lesson_learned.pdf)
-   - History of what went wrong and why we now do things differently
+   - Mistakes we have learned from [PDF](experiments.pdf)
      - Datasets
      - Reproducibility
      - Metrics
@@ -34,7 +33,7 @@
  - 11:00-11:15: Coffee
  - 11:15-12:30: Introduction of Transformer Networks (Jon)
  - 12:30:2:00 Lunch
- - 2:00-2:30: [diffusion.pdf](diffusion.pdf)
- - 2:30-3:45 Hands-on Diffusion Models
+ - 2:00-2:30: Diffusion [PDF](diffusion_small.pdf)
+ - 2:30-3:45 Hands-on Diffusion Models [Note Book](https://github.com/harveymannering/boilerplate_code/blob/main/ddpm.ipynb)
  - 3:45-4:00 Coffee (wrap up)
  - 4:00 Departure

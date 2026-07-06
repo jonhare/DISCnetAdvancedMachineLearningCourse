@@ -5,7 +5,7 @@
 
 ## Day 1: Tuesday 7th July 2026
  - 9:00-11:00: New Directions in Machine Learning (Niranjan, Jon and Adam)
-   - Overview of 15 years of machine learning [PDF](history.pdf)
+   - Overview of 15 years of machine learning [PDF](./history.pdf)
    - Supervised, unsupervised, semi-supervised and self supervised
      learning
    - Learning representations (from clustering to classification)

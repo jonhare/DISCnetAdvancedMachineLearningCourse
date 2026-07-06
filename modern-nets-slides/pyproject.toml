@@ -1,0 +1,15 @@
+[project]
+name = "discnet"
+version = "0.1.0"
+description = "Modern deep learning networks and visualization slides using marimo"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "marimo>=0.23.11",
+    "torch",
+    "torchvision",
+    "numpy",
+    "matplotlib",
+    "wigglystuff",
+    "torchwatcher @ git+https://github.com/feature-importance/torchwatcher.git@main",
+]

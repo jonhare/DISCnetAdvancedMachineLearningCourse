@@ -1,7 +1,7 @@
 # DISCnetAdvancedMachineLearningCourse
 
 ## Day 0: Monday 8th July 2026
- - 7:00pm Getting to know you diner
+ - 7:00pm Getting to know you dinner
 
 ## Day 1: Tuesday 7th July 2026
  - 9:00-11:00: New Directions in Machine Learning (Niranjan, Jon and Adam)
